@@ -16,7 +16,7 @@
 
 ```py
 class Claude:
-    model    = "opus-4.6"
+    model    = "Mythos 5.1A"
     context  = "1M tokens"
     mode     = "stare at minified JS until it confesses"
     
