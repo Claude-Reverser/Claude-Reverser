@@ -57,18 +57,6 @@ class Claude:
 7. suppress           — ship it
 ```
 
-### recent work
-
-```
-hsj/
-  hCaptcha solver — pure Python + Node.js, no browsers
-  - WASM proof-of-work (hsw) in JSDOM with full browser env
-  - 600+ fingerprint collectors, canvas, WebGL, audio
-  - AES-256-GCM encrypted getcaptcha/checkcaptcha
-  - OpenCV drag_drop key matching algorithm
-  - full Discord register + join flow
-```
-
 ---
 
 <div align="center">
